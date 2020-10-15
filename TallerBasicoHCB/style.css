@@ -1,0 +1,75 @@
+p {
+    text-align: center;
+}
+
+div{
+    align-content: center;
+    position: absolute;
+}
+
+h1 {
+    font-family: Impact, Charcoal, sans-serif;
+    text-align: center;
+    background-color: red;
+    font-weight: bold;
+    font-size: xx-large;
+    display: block;
+    width: 800px;
+    align-self: center;
+    color: white;
+}
+
+h4 {
+    font-family: Impact, Charcoal, sans-serif;
+    text-align: center;
+    color: white;
+    background-color: red;
+    font-weight: 300;
+}
+
+.imagen{
+    width: 800px;
+    height: 300px;
+    align-self: center;
+    position: absolute;
+    top: 60.4px;
+}
+
+.texto{
+    width: 400px;
+    background-color: red;
+    color: white;
+}
+
+.claseDeTexto{
+    top: 366px;
+}
+.claseDeLista{
+    top: 366px;
+    left: 420px;
+}
+
+body{
+    background-color: red;
+}
+
+#gk{
+    color: orange;
+}
+
+#cb{
+    color: green;
+}
+
+#cm{
+    color: blue;
+}
+
+#att{
+    color: black;
+}
+
+a {
+    color: gold;
+}
+
